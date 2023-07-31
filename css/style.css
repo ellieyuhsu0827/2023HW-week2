@@ -1,6 +1,8 @@
+*{
+    box-sizing: border-box;
+}
 body {
     font-family: 'Bruno Ace SC', 'cursive';
-    box-sizing: border-box;
 }
 img{
     vertical-align: middle;
@@ -89,7 +91,6 @@ h3{
     border: 1px solid #E3E3E3;
     box-shadow: 4px 4px 4px 0px #00000014;
     padding: 16px;
-    box-sizing: border-box;
 }
 h4{
     font-size: 20px;
