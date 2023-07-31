@@ -128,13 +128,13 @@ h4{
     width: 162px;
     height: 162px;
     overflow: hidden;
-    position: relative;
+    /* position: relative; */
 }
-.message, .ig{    
+/* .message, .ig{    
     position: absolute;
     top: -4px;
     left: -4px;
-}
+} */
 .social-icon a:hover{
     box-shadow: 0px 0px 16px 3px #9094FFE5;
     border-radius: 40px;
